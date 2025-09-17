@@ -1,0 +1,24 @@
+# Build folders
+bin/
+obj/
+out/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
